@@ -1,0 +1,5 @@
+Data Scientist (NeuralTech) - 22.0%
+Data Analyst (Insight Corp) - 4.62%
+Machine Learning Engineer (AI Works) - 2.4%
+Frontend Developer (WebX Studio) - 1.73%
+Backend Developer (CodeBase Systems) - 0.0%
